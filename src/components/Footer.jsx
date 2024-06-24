@@ -92,7 +92,7 @@ const Footer = () => {
           <p className=" text-center py-4">
             @copyright developed by
             <span className=" text-brightColor"> rafia shehnil</span> |
-            All rights reserved ©
+            All rights reserved © 2024
           </p>
         </p>
       </div>
